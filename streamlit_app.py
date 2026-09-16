@@ -244,9 +244,9 @@ with st.expander("🤖 AI解析について", expanded=False):
         """
     )
 
-with st.expander("解析設定", expanded=False):
+with st.expander("Simulation", expanded=False):
     simulations = st.slider(
-        "各打牌のシミュレーション回数",
+        "How many simulation",
         min_value=20,
         max_value=500,
         value=25,
