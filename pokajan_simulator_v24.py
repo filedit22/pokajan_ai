@@ -2091,9 +2091,9 @@ def _make_determinized_game(
     observer から見えない情報を1つの「あり得る世界」として再構成する。
 
     固定する公開情報:
-      - 選択された4グループ
-      - ボーナスホロメン
-      - 各プレイヤーの現在コイン
+      - Card List
+      - Bonus Member
+      - Coins
       - observer自身の手札
       - 捨て札
       - 各プレイヤーの現在手札枚数
@@ -5363,7 +5363,7 @@ def interactive_manual_analysis(
     used_counts = {}
 
     hand_text = input(
-        "自分の8枚手札 (; 区切り、例 兎田ぺこら:橙;宝鐘マリン:青): "
+        "Your 8 card (; 区切り、例 兎田ぺこら:橙;宝鐘マリン:青): "
     )
     hand = parse_card_list(
         hand_text,
