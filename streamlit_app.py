@@ -249,7 +249,7 @@ with st.expander("解析設定", expanded=False):
         "各打牌のシミュレーション回数",
         min_value=20,
         max_value=500,
-        value=100,
+        value=25,
         step=20,
         help="多いほど結果は安定しますが、解析時間も長くなります。",
     )
