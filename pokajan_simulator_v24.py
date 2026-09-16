@@ -18,50 +18,50 @@ COLORS = ("orange", "blue", "pink")
 
 GROUPS: dict[str, tuple[str, ...]] = {
     "JP0": (
-        "ときのそら", "ロボ子さん", "AZKi", "さくらみこ", "星街すいせい",
+        "Tokino Sora", "Roboco-san", "AZKi", "Sakura Miko", "Hoshimachi Suisei",
     ),
     "JP1": (
-        "アキ・ローゼンタール", "赤井はあと", "白上フブキ", "夏色まつり",
+        "Aki Rosenthal", "Akai Haato", "Shirakami Fubuki", "Natsuiro Matsuri",
     ),
     "JP2": (
-        "紫咲シオン", "百鬼あやめ", "癒月ちょこ", "大空スバル",
+        "Murasaki Shion", "Nakiri Ayame", "Yuzuki Choco", "Oozora Subaru",
     ),
     "GAMERS": (
-        "白上フブキ", "大神ミオ", "猫又おかゆ", "戌神ころね",
+        "Shirakami Fubuki", "Ookami Mio", "Nekomata Okayu", "Inugami Korone",
     ),
     "JP3": (
-        "兎田ぺこら", "不知火フレア", "白銀ノエル", "宝鐘マリン",
+        "Usada Pekora", "Shiranui Flare", "Shirogane Noel", "Houshou Marine",
     ),
     "JP4": (
-        "天音かなた", "角巻わため", "常闇トワ", "姫森ルーナ",
+        "Amane Kanata", "Tsunomaki Watame", "Tokoyami Towa", "Himemori Luna",
     ),
     "JP5": (
-        "雪花ラミィ", "桃鈴ねね", "獅白ぼたん", "尾丸ポルカ",
+        "Yukihana Lamy", "Momosuzu Nene", "Shishiro Botan", "Omaru Polka",
     ),
     "HOLOX": (
-        "ラプラス・ダークネス", "鷹嶺ルイ", "博衣こより", "沙花叉クロヱ", "風真いろは",
+        "La+ Darknesss", "Takane Lui", "Hakui Koyori", "Sakamata Chloe", "Kazama Iroha",
     ),
     "REGLOSS": (
-        "火威青", "音乃瀬奏", "一条莉々華", "儒烏風亭らでん", "轟はじめ",
+        "Hiodoshi Ao", "Otonose Kanade", "Ichijou Ririka", "Juufuutei Raden", "Todoroki Hajime",
     ),
     "MYTH": (
-        "森カリオペ", "小鳥遊キアラ", "一伊那尓栖", "がうる・ぐら", "ワトソン・アメリア",
+        "Mori Calliope", "Takanashi Kiara", "Ninomae Ina'nis", "Gawr Gura", "Watson Amelia",
     ),
     "ADVENT": (
-        "シオリ・ノヴェラ", "古石ビジュー", "ネリッサ・レイヴンクロフト",
-        "フワワ・アビスガード", "モココ・アビスガード",
+        "Shiori Novella", "Koseki Bijou", "Nerissa Ravencroft",
+        "Fuwawa Abyssgard", "Mococo Abyssgard",
     ),
     "PROMISE": (
-        "IRyS", "オーロ・クロニー", "ハコス・ベールズ", "セレス・ファウナ", "七詩ムメイ",
+        "IRyS", "Ouro Kronii", "Hakos Baelz", "Ceres Fauna", "Nanashi Mumei",
     ),
     "ID1": (
-        "アユンダ・リス", "ムーナ・ホシノヴァ", "アイラニ・イオフィフティーン",
+        "Ayunda Risu", "Moona Hoshinova", "Airani Iofifteen",
     ),
     "ID2": (
-        "クレイジー・オリー", "アーニャ・メルフィッサ", "パヴォリア・レイネ",
+        "Kureiji Ollie", "Anya Melfissa", "Pavolia Reine",
     ),
     "ID3": (
-        "ベスティア・ゼータ", "カエラ・コヴァルスキア", "こぼ・かなえる",
+        "Vestia Zeta", "Kaela Kovalskia", "Kobo Kanaeru",
     ),
 }
 
